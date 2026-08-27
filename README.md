@@ -211,7 +211,7 @@ Create pages that are useful, honest, easy to read, and better than what is alre
 That is what modern SEO is really about.
 
 ## Helpful Sources
-- [cosmisvisionnews.com](https://cosmisvisionnews.com/)
+- [cosmicvisionnews.com](https://cosmicvisionnews.com/)
 - [vinhhungtravel.com](https://vinhhungtravel.com/)
 - [aplivenews.com](https://aplivenews.com/)
 - [netsportsnews.com](https://netsportsnews.com/)
